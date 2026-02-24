@@ -1,4 +1,4 @@
 #This is my first README file
-We will commit this file to git repository
+We will commit this folder to git repository
 
-I am adding another line in this file
+
